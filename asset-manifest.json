@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/APISearch/static/css/main.c15550b2.css",
+    "main.js": "/APISearch/static/js/main.8d81b8cd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/APISearch/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/APISearch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/APISearch/index.html",
+    "main.c15550b2.css.map": "/APISearch/static/css/main.c15550b2.css.map",
+    "main.8d81b8cd.js.map": "/APISearch/static/js/main.8d81b8cd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/APISearch/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c15550b2.css",
+    "static/js/main.8d81b8cd.js"
+  ]
+}
