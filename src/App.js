@@ -15,7 +15,7 @@ function App() {
 
   const loadUniversities = async (value) => {
     setLoading(true);
-    const response = await axios.get("https://universities.hipolabs.com/search?country=" + searchTerm);
+    const response = await axios.get("http://universities.hipolabs.com/search?country=" + searchTerm);
     setUniversities(response.data);
     setLoading(false);
   }
