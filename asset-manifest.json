@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/UnivSearch/static/css/main.c15550b2.css",
-    "main.js": "/UnivSearch/static/js/main.bc5c1681.js",
+    "main.js": "/UnivSearch/static/js/main.fe0d7f0b.js",
     "static/js/787.28cb0dcd.chunk.js": "/UnivSearch/static/js/787.28cb0dcd.chunk.js",
     "static/media/logo.svg": "/UnivSearch/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/UnivSearch/index.html",
     "main.c15550b2.css.map": "/UnivSearch/static/css/main.c15550b2.css.map",
-    "main.bc5c1681.js.map": "/UnivSearch/static/js/main.bc5c1681.js.map",
+    "main.fe0d7f0b.js.map": "/UnivSearch/static/js/main.fe0d7f0b.js.map",
     "787.28cb0dcd.chunk.js.map": "/UnivSearch/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c15550b2.css",
-    "static/js/main.bc5c1681.js"
+    "static/js/main.fe0d7f0b.js"
   ]
 }
