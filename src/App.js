@@ -15,7 +15,11 @@ function App() {
 
   const loadUniversities = async (value) => {
     setLoading(true);
+    
+    //Since the API call uses an http server, github pages (which uses https) blocks it. I used a CORS link to workaround this, however it only seems to work
+    //if the url is copied into a web browser and temporary access is enabled.
     const response = await axios.get("https://cors-anywhere.herokuapp.com/http://universities.hipolabs.com/search?country=" + searchTerm);
+    
     setUniversities(response.data);
     setLoading(false);
   }
