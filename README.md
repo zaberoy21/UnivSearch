@@ -1,5 +1,5 @@
 1. GitHub Pages URL: https://zaberoy21.github.io/UnivSearch/
-   (Since the API call in this page uses an http server, github pages, which uses https, blocks it. I used a CORS link to workaround this, however it only seems to work
+   (Since the API call in this page uses an http server, the github page, which uses https, blocks it. I used a CORS link to workaround this, however it only seems to work
    if the url is copied into a web browser and temporary access is enabled | Link: https://cors-anywhere.herokuapp.com/http://universities.hipolabs.com/search?country=canada).
 
 2. The API that I chose provides a list of the world's Universities and their respective countries and domains. I chose to use this API because it reflects my lifestyle as a college student and provides simple yet practical data that can be utilized to create a resourceful web application.
